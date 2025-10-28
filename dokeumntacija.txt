@@ -1,0 +1,1183 @@
+struktura stranice!!!
+🩺 STRUKTURA WEB STRANICE – POLIKLINIKA HARNI
+1️⃣ Naslovnica
+URL: /
+Cilj: Pregledna početna stranica s brzim CTA (e-mail, WhatsApp, poziv) i ulazima u sve glavne tematske cjeline.
+Sekcije:
+Uvodna poruka (“Stručnost, povjerenje i individualni pristup”)
+Predstavljanje tima: dr. Vesna Harni, dr. Snješka Vitošević, dr. Tatjana Mioč-Pranić
+Brzi linkovi (5 temeljnih kategorija):
+Ginekologija
+Neplodnost i hormoni
+Trudnoća
+Ginekološki karcinomi
+Novosti
+CTA blok: 📞 / 💬 / 📧
+
+2️⃣ Ginekologija
+URL: /ginekologija
+Cilj: Glavna klinička kategorija, fokus na preventivu, dijagnostiku i laserske tretmane.
+Podstranice:
+/prvi-ginekoloski-pregled
+/ginekoloska-dijagnostika
+/spolno-prenosive-bolesti
+/miomi-ciste-endometrioza
+/inkontinencija
+/prehrana-ginekologija
+Unutarnji linkovi:
+iz dijagnostike → vulvoskopija / kolposkopija
+iz mioma → hormoni, prehrana
+iz inkontinencije → laser-ginekologija / menopauza
+iz prehrane → hormoni / detoksifikacija
+SEO ključne fraze: ginekolog Zagreb, ultrazvuk, PAPA test, laserski tretmani, kolposkopija, inkontinencija, menopauza.
+
+3️⃣ Neplodnost i hormoni
+URL: /neplodnost-hormoni
+Cilj: Cjeloviti pristup hormonskoj i reproduktivnoj ravnoteži žene.
+Podstranice:
+/menstrualni-ciklus
+/kontracepcija
+/neplodnost
+/menopauza
+/prehrana-hormoni
+Unutarnji linkovi:
+iz neplodnosti → štitnjača, endometrioza
+iz menopauze → vaginalna suhoća, inkontinencija
+iz prehrane-hormoni → infuzijska terapija, antioksidansi
+SEO: hormonska ravnoteža, PCOS, neplodnost, menopauza, kontracepcija, hormonski poremećaji.
+
+4️⃣ Trudnoća
+URL: /trudnoca
+Cilj: Skrb, sigurnost i prenatalna dijagnostika u trudnoći.
+Podstranice:
+/planiranje-trudnoce
+/prenatalna-dijagnostika
+/rizicna-trudnoca
+/prehrana-trudnoca
+/oporavak-nakon-poroda
+Unutarnji linkovi:
+iz prenatalne → NIPT, morfologija, ehokardiografija
+iz prehrane → hormoni, dijabetes, štitnjača
+iz rizicne → preeklampsija, vaskularna reaktivnost
+SEO: praćenje trudnoće, ultrazvuk, NIPT test, prenatalna dijagnostika, rizična trudnoća.
+
+
+
+5️⃣ Ginekološki karcinomi
+URL: /ginekoloski-karcinomi
+Cilj: Edukacija, rana dijagnostika i prevencija.
+Podstranice:
+/hpv-prevencija
+/cin-promjene
+/letz
+/rak-endometrija
+/rak-jajnika
+/rak-vulve
+/prehrana-karcinomi
+Unutarnji linkovi:
+iz HPV → CIN / LETZ
+iz rak-vulve → vulvoskopija / NSP shema
+iz prehrane-karcinomi → infuzije-onkologija / antioksidansi
+SEO: HPV, CIN, kolposkopija, rak vrata maternice, rak jajnika, prehrana kod karcinoma.
+
+6️⃣ Novosti
+URL: /novosti
+Cilj: Edukativni i informativni centar — objave, istraživanja, vijesti.
+Podkategorije:
+/strucni-clanci
+/istrazivanja
+/aktualno
+/edukacija
+Unutarnji linkovi:
+članci iz novosti povezuju na glavne kategorije (npr. DATRIV → Ginekološki karcinomi)
+svaki članak završava CTA:
+📧 Pošaljite upit | 💬 WhatsApp | 📞 Nazovite odmah
+SEO: novosti iz ginekologije, žensko zdravlje, laserska terapija, prevencija raka, hormonalna ravnoteža.
+
+
+
+7️⃣ O nama
+URL: /o-nama
+Cilj: Predstavljanje tima, misije i povijesti Poliklinike.
+Podstranice:
+/nas-tim
+/dr-vesna-harni
+/dr-snjeska-vitosevic
+/dr-tatjana-mioc-pranic
+/suradnici
+SEO: ginekolog Zagreb, ženska poliklinika, iskustvo i povjerenje.
+
+8️⃣ Kontakt
+URL: /kontakt
+Sadržaj:
+Brzi kontakt (WhatsApp, e-mail, poziv)
+Lokacija i radno vrijeme
+Mapa + link “Zatražite termin”
+Kratak opis privatnosti i diskrecije
+CTA stalno prisutan:
+📞 Nazovite odmah | 💬 WhatsApp | 📧 Pošaljite upit
+SEO: ginekolog Zagreb kontakt, privatna poliklinika Harni, termini bez čekanja.
+
+🔗 INTERNI LINKOVI (SEO poveznice)
+Tema	Poveznica	Cilj
+HPV / CIN / LETZ	→ Ginekološki karcinomi	jačanje autoriteta u onkologiji
+Menopauza / Vaginalna suhoća / Inkontinencija	→ Ginekologija / Hormoni	podrška ženskom zdravlju nakon 45.
+Neplodnost / Štitnjača / Hormoni	→ Neplodnost i hormoni	endokrinološka preciznost
+Trudnoća / NIPT / Morfologija	→ Trudnoća	edukacija trudnica
+Prehrana / Infuzije / Antioksidansi	→ Novosti + Hormoni + Karcinomi	integrativna medicina
+
+🧭 UX / DIZAJN PREPORUKE
+Glavni izbornik (header):
+Ginekologija | Neplodnost i hormoni | Trudnoća | Ginekološki karcinomi | Novosti | O nama | Kontakt
+Sekundarni izbornik (footer):
+Privatnost | Uvjeti korištenja | Pitanja i odgovori | Newsletter
+CTA traka (sticky na mobitelu):
+💬 WhatsApp | 📞 Poziv | 📧 Termin
+Boje i ton:
+Glavna paleta: lavanda + svijetlozlatna + siva
+Sekundarna: bijela pozadina, minimalistički layout
+Font: moderan serif za naslove (npr. Playfair Display), sans-serif za tekst (npr. Lato)
+Posebna pažnja na mobilni UX:
+Svaka stranica ≤ 5 sekcija
+CTA gumb nakon svake druge sekcije
+Brzo učitavanje i “tap-friendly” dizajn
+
+📈 SEO TEHNIČKA STRUKTURA
+Naslovi (H1, H2, H3) — po 1 H1 po stranici
+Meta opis (do 160 znakova) s CTA elementom
+Canonical linkovi za izbjegavanje dupliciranja (npr. /menopauza i /menopauza-terapija)
+Schema markup (MedicalClinic + Physician + Article)
+Alt tekstovi za sve slike: “ginekolog Zagreb”, “vulvoskopija Harni”, itd.
+
+SEO meta naslova i opisa (title + description) 
+za svih 6 glavnih landing stranica Poliklinike Harni.
+
+Naslovi su prilagođeni Google-ovim smjernicama (do 60 znakova), a opisi do 160 znakova, s pozivom na akciju i prirodnim uklapanjem glavnih ključnih fraza.
+Ton je stručan, ali topao i orijentiran prema povjerenju i ženskom zdravlju — u skladu s imidžem Poliklinike Harni.
+
+🩺 1️⃣ Naslovnica — Poliklinika Harni
+Meta title:
+Poliklinika Harni Zagreb – Stručnost, povjerenje i briga o ženskom zdravlju
+Meta description:
+Više od 25 godina iskustva u ginekologiji, trudnoći, hormonima i onkologiji. Dogovorite pregled – bez čekanja i s potpunim povjerenjem.
+
+🌷 2️⃣ Ginekologija
+Meta title:
+Ginekolog Zagreb – Pregledi, ultrazvuk, PAPA test | Poliklinika Harni
+Meta description:
+Stručni ginekološki pregledi, kolposkopija, vulvoskopija, LETZ i laserski tretmani. Dogovorite pregled bez čekanja i s potpunom diskrecijom.
+
+🧬 3️⃣ Neplodnost i hormoni
+Meta title:
+Neplodnost, hormoni i menopauza – dijagnostika i liječenje | Poliklinika Harni
+Meta description:
+Cjeloviti pristup hormonskoj ravnoteži i plodnosti. Menstrualni ciklus, PCOS, menopauza i personalizirano liječenje neplodnosti.
+
+🤰 4️⃣ Trudnoća
+Meta title:
+Trudnoća i prenatalna dijagnostika – skrb i sigurnost | Poliklinika Harni
+Meta description:
+Praćenje trudnoće, 3D/4D ultrazvuk, NIPT test i prenatalna dijagnostika. Brinite o sebi i svojoj bebi uz stručan tim Poliklinike Harni.
+
+🎗️ 5️⃣ Ginekološki karcinomi
+Meta title:
+Rano otkrivanje i prevencija ginekoloških karcinoma | Poliklinika Harni
+Meta description:
+HPV test, kolposkopija, vulvoskopija, LETZ i laserska dijagnostika. Rano otkrivanje spašava život – dogovorite pregled u Poliklinici Harni.
+
+📰 6️⃣ Novosti
+Meta title:
+Novosti i stručni članci o ženskom zdravlju | Poliklinika Harni
+Meta description:
+Pratite najnovije vijesti, istraživanja i stručne članke iz ginekologije, onkologije i hormonalne medicine. Znanje donosi zdravlje.
+
+💬 7️⃣ O nama (sekundarna, ali važna stranica)
+Meta title:
+O nama – Tim stručnjakinja Poliklinike Harni Zagreb
+Meta description:
+Dr. Vesna Harni i tim ginekologinja s više od 25 godina iskustva u dijagnostici, liječenju i prevenciji ženskih bolesti.
+
+📞 8️⃣ Kontakt
+Meta title:
+Kontakt – Poliklinika Harni Zagreb | Dogovorite pregled
+Meta description:
+Kontaktirajte nas putem e-maila, WhatsAppa ili telefonom. Brzi termini bez čekanja, diskrecija i osobni pristup svakoj pacijentici.
+
+📈 SEO napomena za implementaciju:
+Element	Optimalna duljina	Napomena
+Title	do 60 znakova	uključiti naziv Poliklinike Harni i ključnu frazu (“ginekolog Zagreb”, “trudnoća”, “neplodnost”)
+Description	do 155–160 znakova	završiti pozivom na akciju (“Dogovorite pregled”, “Saznajte više”)
+URL struktura	/ginekologija, /trudnoca, /neplodnost-hormoni, /ginekoloski-karcinomi, /novosti, /kontakt	jednostavni, bez dodatnih parametara
+Canonical link	prema glavnim landing stranicama	za izbjegavanje dupliciranja sadržaja
+Open Graph i WhatsApp preview	koristi iste naslove i opise	prikazat će se automatski na dijeljenju članka
+
+SEO meta naslove i opise za podstranice unutar glavnih kategorija
+za sve glavne podstranice unutar svake tematske cjeline Poliklinike Harni.
+
+🩺 I. GINEKOLOGIJA
+1. Prvi ginekološki pregled
+Meta title:
+Prvi ginekološki pregled – savjeti i priprema | Poliklinika Harni
+Meta description:
+Saznajte što očekivati na prvom ginekološkom pregledu. Stručan i empatičan pristup mladim djevojkama i ženama – bez straha i neugodnosti.
+
+2. Ginekološka dijagnostika
+Meta title:
+Ginekološka dijagnostika – ultrazvuk, PAPA test, kolposkopija | Poliklinika Harni
+Meta description:
+Precizna dijagnostika ženskih bolesti uz ultrazvuk, kolposkopiju i PAPA test. Dogovorite termin bez čekanja u Poliklinici Harni.
+
+3. Spolno prenosive bolesti
+Meta title:
+Spolno prenosive bolesti – dijagnostika i liječenje | Poliklinika Harni
+Meta description:
+HPV, klamidija, mikoplazma i druge infekcije. Rano testiranje i učinkovito liječenje uz diskreciju i stručnost.
+
+4. Miomi, ciste i endometrioza
+Meta title:
+Miomi, ciste i endometrioza – simptomi i liječenje | Poliklinika Harni
+Meta description:
+Dijagnostika i liječenje mioma, cista i endometrioze. Suvremene minimalno invazivne metode i personalizirani pristup.
+
+5. Inkontinencija urina
+Meta title:
+Inkontinencija urina – lasersko liječenje i oporavak | Poliklinika Harni
+Meta description:
+Bezbolno i učinkovito lasersko liječenje inkontinencije i oslabljenog dna zdjelice. Vratite kontrolu i samopouzdanje.
+
+6. Prehrana kod ginekoloških oboljenja
+Meta title:
+Prehrana i hormonska ravnoteža – ginekološka prevencija | Poliklinika Harni
+Meta description:
+Kako prehrana utječe na hormone, upale i reproduktivno zdravlje. Smjernice za prehranu kod endometrioze, PCOS-a i menopauze.
+
+🧬 II. NEPLODNOST I HORMONI
+1. Menstrualni ciklus
+Meta title:
+Menstrualni ciklus – hormonska ravnoteža i plodnost | Poliklinika Harni
+Meta description:
+Razumite svoj ciklus, hormonalne promjene i znakove plodnosti. Savjeti za žene svih dobi i faza života.
+
+2. Kontracepcija
+Meta title:
+Kontracepcija – vrste, sigurnost i savjeti | Poliklinika Harni
+Meta description:
+Sve o hormonskoj i nehormonskoj kontracepciji. Individualno savjetovanje i izbor metode uz stručno vodstvo ginekologa.
+
+3. Neplodnost
+Meta title:
+Neplodnost – dijagnostika i liječenje | Poliklinika Harni Zagreb
+Meta description:
+Otkrivanje uzroka neplodnosti, hormonske analize i individualni terapijski plan. Suvremeni pristup plodnosti žene.
+
+4. Menopauza
+Meta title:
+Menopauza – hormonska terapija i prirodna ravnoteža | Poliklinika Harni
+Meta description:
+Hormonske promjene u menopauzi. Suvremena terapija, biljna potpora i laserski tretmani za suhoću i bolne odnose.
+
+5. Prehrana i hormoni
+Meta title:
+Prehrana i hormoni – prirodna ravnoteža organizma | Poliklinika Harni
+Meta description:
+Nutritivni pristup hormonskoj ravnoteži, PCOS-u i menopauzi. Hrana kao terapija i potpora reproduktivnom zdravlju.
+
+🤰 III. TRUDNOĆA
+1. Planiranje trudnoće
+Meta title:
+Planiranje trudnoće – savjeti i pretrage prije začeća | Poliklinika Harni
+Meta description:
+Prekoncepcijska skrb, hormonske analize i savjeti za sigurno začeće. Započnite trudnoću uz optimalno zdravlje i stručnu podršku.
+
+2. Prenatalna dijagnostika
+Meta title:
+Prenatalna dijagnostika – NIPT test, ultrazvuk i probir | Poliklinika Harni
+Meta description:
+Rano otkrivanje genetskih i razvojnih anomalija. NIPT test, morfologija ploda i fetalna ehokardiografija.
+
+3. Rizična trudnoća
+Meta title:
+Rizična trudnoća – nadzor i skrb za mamu i bebu | Poliklinika Harni
+Meta description:
+Stručno praćenje rizičnih trudnoća, hipertenzije, gestacijskog dijabetesa i preeklampsije. Sigurnost u svakom tromjesečju.
+
+
+4. Prehrana u trudnoći
+Meta title:
+Prehrana u trudnoći – vodič za buduće mame | Poliklinika Harni
+Meta description:
+Zdrava prehrana u trudnoći za rast i razvoj djeteta. Savjeti o vitaminima, mineralima i balansiranoj prehrani.
+
+5. Oporavak nakon poroda
+Meta title:
+Oporavak nakon poroda – fizička i hormonska ravnoteža | Poliklinika Harni
+Meta description:
+Podrška majkama nakon poroda. Laserska terapija, prehrana, hormonska stabilizacija i savjeti za postporođajnu njegu.
+
+🎗️ IV. GINEKOLOŠKI KARCINOMI
+1. HPV infekcija i prevencija
+Meta title:
+HPV infekcija – prevencija i liječenje | Poliklinika Harni
+Meta description:
+HPV testiranje, tipizacija i praćenje cervikalnih promjena. Prevencija raka vrata maternice i cijepljenje.
+
+2. CIN promjene
+Meta title:
+CIN promjene – dijagnostika i liječenje | Poliklinika Harni
+Meta description:
+Kolposkopija, PAPA test i LETZ zahvati za ranu dijagnostiku prekanceroza vrata maternice. Rano otkrivanje spašava život.
+
+3. LETZ zahvati
+Meta title:
+LETZ zahvati – liječenje cervikalnih promjena | Poliklinika Harni
+Meta description:
+Minimalno invazivni LETZ zahvati za uklanjanje prekanceroza. Brz oporavak, preciznost i sigurnost zahvata.
+
+
+
+4. Rak endometrija
+Meta title:
+Rak endometrija – rani simptomi i dijagnostika | Poliklinika Harni
+Meta description:
+Neredovita krvarenja i postmenopauzalni simptomi. Rano otkrivanje raka maternice uz ultrazvuk i histološku analizu.
+
+5. Rak jajnika
+Meta title:
+Rak jajnika – simptomi i rano otkrivanje | Poliklinika Harni
+Meta description:
+Praćenje cista i onkomarkera. Rano prepoznavanje simptoma raka jajnika povećava uspješnost liječenja.
+
+6. Rak vulve
+Meta title:
+Rak vulve i vagine – dijagnostika i liječenje | Poliklinika Harni
+Meta description:
+Kolposkopija, vulvoskopija i laserski zahvati. Rano otkrivanje prekanceroza vulve i siguran terapijski pristup.
+
+7. Prehrana kod ginekoloških karcinoma
+Meta title:
+Prehrana kod ginekoloških karcinoma | Poliklinika Harni
+Meta description:
+Prehrana i nutritivna potpora tijekom i nakon onkološke terapije. Smanjite upalu i ojačajte imunitet kroz uravnoteženu prehranu.
+
+📰 V. NOVOSTI
+1. Stručni članci
+Meta title:
+Stručni članci o ginekologiji i ženskom zdravlju | Poliklinika Harni
+Meta description:
+Istraživanja, edukativni vodiči i klinički članci o ženskom zdravlju. Pouzdane informacije temeljene na znanosti.
+
+
+
+2. Aktualno
+Meta title:
+Aktualno – novosti i vijesti iz ginekologije | Poliklinika Harni
+Meta description:
+Najnovije vijesti i događanja iz Poliklinike Harni. Laserska terapija, istraživanja i suvremeni pristupi u ginekologiji.
+
+3. Istraživanja i edukacija
+Meta title:
+Istraživanja i edukacija – Poliklinika Harni
+Meta description:
+Rezultati DATRIV studije i drugih istraživanja o kroničnim vulvarnim tegobama, hormonima i autonomnom živčanom sustavu.
+
+🔍 SEO napomene za implementaciju
+Element	Smjernica
+Title tag	≤ 60 znakova, s ključnom frazom i imenom poliklinike
+Meta description	≤ 160 znakova, završiti s CTA (“Saznajte više”, “Dogovorite pregled”)
+URL	kratak, jasan i bez prijedloga (npr. /rak-jajnika, ne /rak-jajnika-lecenje)
+Open Graph	koristi iste meta podatke za dijeljenje na WhatsAppu, Facebooku, Instagramu
+Alt tagovi	npr. “kolposkopija Poliklinika Harni”, “ginekološki pregled Zagreb”
+Schema markup	MedicalClinic + Article + Person za autore članaka
+
+
+
+
+
+
+
+
+
+
+Odlično 🌿
+U nastavku je cjelovit i pažljivo optimiziran set SEO meta naslova (title) i meta opisa (description) za sve glavne blog članke / novosti Poliklinike Harni.
+Ovi naslovi i opisi osmišljeni su tako da:
+poboljšavaju CTR (click-through rate) u Googleu,
+povećavaju prepoznatljivost brenda Poliklinike Harni,
+te prirodno uključuju glavne ključne riječi povezane s temom članka.
+
+📰 SEO META NASLOVI I OPISI ZA ČLANKE / NOVOSTI
+
+1️⃣ Laserska terapija u ginekologiji — nove mogućnosti i indikacije
+Meta title:
+Laserska terapija u ginekologiji – suvremeni pristupi | Poliklinika Harni
+Meta description:
+Saznajte kako laserska tehnologija pomaže u liječenju inkontinencije, suhoće rodnice, ožiljaka i estetskih problema. Brzo, precizno i bezbolno.
+
+2️⃣ HPV infekcija i prevencija ginekoloških karcinoma
+Meta title:
+HPV infekcija i prevencija raka vrata maternice | Poliklinika Harni
+Meta description:
+HPV testiranje, tipizacija i prevencija raka vrata maternice. Naučite kako se zaštititi i zašto je rana dijagnostika ključna za zdravlje.
+
+3️⃣ Neplodnost i lifestyle
+Meta title:
+Neplodnost i lifestyle – hormoni, prehrana i plodnost | Poliklinika Harni
+Meta description:
+Saznajte kako stres, prehrana i hormoni utječu na plodnost. Holistički pristup dijagnostici i liječenju neplodnosti u Poliklinici Harni.
+
+4️⃣ Trudnoća i prenatalna dijagnostika — što svaka buduća mama treba znati
+Meta title:
+Prenatalna dijagnostika i trudnoća – vodič za buduće mame | Poliklinika Harni
+Meta description:
+Sve o prenatalnim testovima, NIPT analizi, morfologiji i sigurnom praćenju trudnoće. Savjeti za mirnu i zdravu trudnoću.
+
+5️⃣ Menstrualni ciklus i hormonska ravnoteža
+Meta title:
+Menstrualni ciklus i hormoni – ravnoteža i zdravlje | Poliklinika Harni
+Meta description:
+Razumite svoj ciklus i hormonske promjene. Savjeti za prirodnu regulaciju hormona i bolju reproduktivnu ravnotežu.
+
+6️⃣ Kontracepcija – vrste, djelovanje i sigurnost
+Meta title:
+Kontracepcija – vrste, djelovanje i savjeti | Poliklinika Harni
+Meta description:
+Pregled hormonskih i nehormonskih metoda kontracepcije. Stručno savjetovanje za odabir najprikladnije zaštite.
+
+7️⃣ Vaginalna suhoća – uzroci i liječenje
+Meta title:
+Vaginalna suhoća – uzroci, simptomi i liječenje | Poliklinika Harni
+Meta description:
+Laserska terapija i hormonska potpora za vaginalnu suhoću i nelagodu. Vratite prirodnu ravnotežu i udobnost.
+
+8️⃣ Inkontinencija urina – lasersko liječenje i rehabilitacija
+Meta title:
+Inkontinencija urina – lasersko liječenje bez operacije | Poliklinika Harni
+Meta description:
+Bezbolni laserski tretmani i rehabilitacija zdjeličnog dna. Učinkovito rješenje inkontinencije i oporavak bez kirurških zahvata.
+
+9️⃣ Endometrioza – uzroci, simptomi i terapija
+Meta title:
+Endometrioza – dijagnostika i liječenje | Poliklinika Harni
+Meta description:
+Saznajte kako prepoznati endometriozu i koje su mogućnosti liječenja. Minimalno invazivni pristupi i hormonska terapija.
+
+🔟 Miomi maternice – suvremeni pristupi liječenju
+Meta title:
+Miomi maternice – dijagnostika i liječenje | Poliklinika Harni
+Meta description:
+Liječenje mioma bez operacije uz hormonske i laserske metode. Saznajte više o suvremenim pristupima liječenju mioma.
+
+11️⃣ Menopauza i hormonska terapija
+Meta title:
+Menopauza i hormonska terapija – ravnoteža i podrška | Poliklinika Harni
+Meta description:
+Ublažite simptome menopauze uz personaliziranu hormonsku terapiju i savjete o prehrani. Stručno vodstvo i podrška žena.
+
+12️⃣ Prehrana kod ginekoloških karcinoma
+Meta title:
+Prehrana kod ginekoloških karcinoma – nutritivna potpora | Poliklinika Harni
+Meta description:
+Nutritivni pristup u prevenciji i oporavku kod karcinoma. Antioksidansi, biljni spojevi i prehrana koja podržava imunitet.
+
+
+14️⃣ DATRIV studija – kronične vulvarne tegobe i živčani sustav
+Meta title:
+DATRIV studija – kronične vulvarne tegobe i dijagnostika | Poliklinika Harni
+Meta description:
+Istraživanje povezanosti vulvarne boli i autonomnog živčanog sustava. Klinički uvidi iz DATRIV studije Poliklinike Harni.
+
+15️⃣ Vulvoskopija i “tri prstena” – DATRIV pristup
+Meta title:
+Vulvoskopija i metoda “tri prstena” | Poliklinika Harni
+Meta description:
+Inovativna NSP metoda za dijagnostiku vulvarnih promjena. Preciznost vulvoskopije prema DATRIV protokolu.
+
+17️⃣ Prehrana i hormoni – poveznica tijela i ravnoteže
+Meta title:
+Prehrana i hormoni – prirodna regulacija organizma | Poliklinika Harni
+Meta description:
+Saznajte kako hrana utječe na hormone, energiju i zdravlje. Smjernice za prehranu kod PCOS-a i hormonskih disbalansa.
+
+18️⃣ Antioksidansi i prehrana nakon terapije
+Meta title:
+Antioksidansi i prehrana nakon onkološke terapije | Poliklinika Harni
+Meta description:
+Kako antioksidansi i zdrava prehrana podržavaju regeneraciju nakon terapije. Savjeti za žene u oporavku.
+
+19️⃣ Život nakon liječenja – hormonska i emocionalna ravnoteža
+Meta title:
+Život nakon liječenja – ravnoteža i oporavak | Poliklinika Harni
+Meta description:
+Podrška ženama nakon onkološkog liječenja. Hormonska regulacija, regeneracija i emocionalna stabilnost.
+
+20️⃣ Laserska terapija i COLPOSCAN tretmani
+Meta title:
+Laserska terapija i COLPOSCAN tretmani | Poliklinika Harni
+Meta description:
+Laserski poštedni zahvati za liječenje cervikalnih i vulvarnih promjena. Preciznost, sigurnost i brzi oporavak.
+
+🧭 SEO smjernice za implementaciju:
+Element	Preporuka
+Naslov (title)	do 60 znakova, uključiti naziv teme i Polikliniku Harni
+Opis (description)	do 160 znakova, s ključnom frazom i pozivom na akciju
+Canonical tag	usmjeriti na glavnu verziju članka (npr. /hpv-prevencija)
+Open Graph i WhatsApp preview	koristi isti naslov i opis radi dosljednog prikaza
+Slike (alt text)	npr. “laserska terapija u ginekologiji Harni”, “prenatalna dijagnostika Zagreb”
+Rich snippets	tip “MedicalArticle” s autorom (dr. Vesna Harni / dr. Mioč-Pranić / dr. Vitošević)
+
+
+vodic za dizajnera!!
+1️⃣ Figma/Visual export — izradim grafički mockup (desktop + mobile) s bojama, fontovima i spacingom (spreman za izvoz u .fig ili .png).
+2️⃣ UX vodič za developera — dokument koji opisuje svaki element: padding, font, ponašanje CTA gumbi, hover i mobile sticky logiku.
+3️⃣ Prijedlog vizualnog identiteta (brand kit) — odabir palete, tipografije i micro-ikonografije prema estetici Poliklinike Harni.
+
+1) Figma/visual mockup (desktop + mobile)
+Pripremio sam web-ready mockup pakete (wireframe SVG-ovi), dizajn tokene i osnovni CSS, spremno za uvoz u Figma/Sketch (File → Import).
+Preuzimanje:
+Poliklinika Harni – mockupovi + design tokens (ZIP)
+U ZIP-u su:
+home_desktop.svg i home_mobile.svg
+ginekologija_desktop.svg i ginekologija_mobile.svg
+neplodnost_desktop.svg i neplodnost_mobile.svg
+trudnoca_desktop.svg i trudnoca_mobile.svg
+onkologija_desktop.svg i onkologija_mobile.svg
+novosti_desktop.svg i novosti_mobile.svg
+design_tokens.json (boje, tipografija, spacing, radius, shadow, komponente)
+base_styles.css (osnovna stilizacija i klase za brzi start)
+Savjet: u Figmi importiraj SVG po stranici (desktop i mobile), a design_tokens.json iskoristi kao “Design Tokens” biblioteku (npr. preko Figma Tokens plugina) — time ćeš imati centralizirane boje, tipografiju i spacing.
+
+2) UX vodič za developera (sa svim pravilima)
+Kratka, precizna pravila implementacije:
+Grid i raspored
+Desktop: max širina sadržaja 1200–1280 px (container), padding: 24–32 px sa svake strane.
+Mobile: širina 360–414 px, padding: 16–20 px.
+Grid:
+Desktop: 12 stupaca, gutter 24 px, margin 32 px.
+Mobile: 4 stupca, gutter 16 px, margin 16 px.
+Tipografija
+Naslovi: Playfair Display, serif
+H1: 48/1.2, H2: 36/1.3, H3: 24/1.4
+Tekst: Lato, sans-serif
+Body: 18/1.6, Small: 14/1.6
+Kontrast: naslovi u lavender-900, tekst u gray-700/600.
+Boje (iz tokensa)
+Primarna: lavender-600 (#7E5FA6)
+Tamnija primarna: lavender-700 (#6D4E97)
+Naslovi: lavender-900 (#3D2E57)
+Pozadine: lavender-50 / lavender-100
+Tekst: gray-900/600
+Akcent pozadina CTA trake: lavender-600
+Subtle akcent: gold-soft (#F8F3E7)
+Komponente
+Button Primary: bg lavender-600, fg white, radius 12, padding 12×18
+Button Outline: transparent + border lavender-600, fg lavender-700, radius 12
+Card: bg white, border #EEE, radius 16, shadow 0 8px 24px rgba(0,0,0,.08)
+Sticky CTA (mobile): pri dnu ekrana, 3 gumba (WhatsApp | Poziv | E-mail), visina 56 px, safe-area respekt.
+Ikone i ilustracije
+Linijske, minimalističke, ton lavender-700.
+Izbjegavati stock s previše “medikalne” sterilnosti — težiti toplim, autentičnim fotografijama tima i interijera.
+Stanja i interakcije
+Hover: kartice +4 px podizanje (shadow ↑), gumbovi “brighten” +3%.
+Focus: outline: 2px solid #7E5FA6 (AA kontrast).
+Active: prigušenje −5% + inner shadow 1 px.
+Performanse
+Slike: webp/avif, srcset + sizes.
+CSS: kritični CSS inline u <head>, ostatak deferred.
+JS: lazy za medije/slidere; potpuni CLS < 0.1; LCP < 2.5 s.
+SEO & OG
+Jedan H1 po stranici, opisni H2/H3.
+meta title ≤ 60 znakova, description ≤ 160.
+og:image za svaku landing stranicu (1200×630).
+schema.org: MedicalClinic, Physician, MedicalWebPage, Article.
+Pristupačnost (a11y)
+Kontrast AA minimum.
+aria-label za CTA ikone.
+Tab-navigacija i keyboard focus.
+
+3) Brand kit (vizualni identitet)
+Paleta
+Lavender 900 #3D2E57 (naslovi)
+Lavender 700 #6D4E97 (ikone, linkovi)
+Lavender 600 #7E5FA6 (primarni CTA)
+Lavender 200 #D4C6E6 (kartice/sekcije)
+Lavender 100 #E8DFF1 (svijetla pozadina)
+Lavender 50 #F4EFF8 (svijetla pozadina 2)
+Gold Soft #F8F3E7 (akcent)
+Gray 900 #111827 (tamni tekst/footeri)
+Gray 600 #525252 (paragraf)
+White #FFFFFF
+Tipografija
+Naslovi: Playfair Display (elegantan, pouzdan)
+Tijelo: Lato (čitljiv, suvremen)
+Spacing & radius
+Skala spacinga: 4, 8, 12, 16, 20, 24, 32, 40, 48, 64
+Radius: kartice 16, gumbi 12
+Ikonografija
+lucide-react ili sličan minimalistički set (line icons).
+Konzistentna težina linije (1.5–2 px).
+Fotografija
+Svijetle, mekane, prirodne; naglasak na povjerenju i skrbi.
+Izbjegavati hladne plavo-sive medicinske stereotipe.
+Ton komunikacije
+Stručan, topao, umirujući.
+Aktivni glagoli, jasne koristi, izbjegavati žargon.
+CTA uvijek pozitivan: “Dogovorite pregled”, “Pošaljite upit”.
+
+Ako želiš, mogu:
+isporučiti Figma stranicu s importiranim SVG-ovima i definiranim “Styles” (boje/tekst),
+ili direktno pripremiti Next.js starter s design_tokens.json i base_styles.css (u Tailwind-u ili CSS varijantama), da razvoj može krenuti odmah.
+
+
+wireframe!!!
+UX/UI planiranje weba Poliklinike Harni, koje povezuje stručnost, toplinu i povjerenje kroz jasan, suvremen i mobilno prilagođen dizajn.
+
+Wireframe layout (prijedlog dizajna i rasporeda elemenata) za naslovnicu i sve glavne podstranice, u skladu s identitetom Poliklinike Harni i funkcijom medicinsko-edukativnog portala.
+
+🩺 NASLOVNICA — “Poliklinika Harni”
+🎯 Cilj stranice:
+Predstaviti stručnost, tim i područja rada Poliklinike Harni te omogućiti brzu interakciju (poziv, WhatsApp, e-mail).
+
+🔶 1️⃣ Hero sekcija (uvodna zona)
+Vizual: čista svijetla pozadina, tonovi lavande i bijelog zlata, fotografija tima ili mirnog ženskog portreta u liječničkom okruženju.
+Elementi:
+Naslov (H1): “Stručnost, povjerenje i individualni pristup svakoj ženi”
+Podnaslov: “Više od 25 godina posvećeni zdravlju, ravnoteži i dobrobiti žena.”
+CTA gumbi:
+📞 Nazovite odmah
+💬 Pošaljite WhatsApp poruku
+📧 Zatražite termin e-mailom
+➡️ Mobilno: CTA gumbi prikazani horizontalno, uvijek dostupni u “sticky” traci pri dnu ekrana.
+
+🔶 2️⃣ Sekcija: “Tko smo” / O Poliklinici
+Layout: Dvostruki stupac — lijevo tekst, desno fotografija interijera ili liječnica u radu.
+Sadržaj: kratka biografija tima i misija Poliklinike.
+CTA: “Upoznajte naš tim →” (link na stranicu “O nama”)
+
+🔶 3️⃣ Sekcija: “Naša područja stručnosti”
+Layout: Pet kartica s ikonama ili fotografijama (u nizu na desktopu, slider na mobitelu):
+Ginekologija
+Neplodnost i hormoni
+Trudnoća
+Ginekološki karcinomi
+Novosti
+Svaka kartica sadrži:
+Kratki opis (1 rečenica)
+CTA: “Saznajte više →”
+
+🔶 4️⃣ Sekcija: “Zašto odabrati Polikliniku Harni”
+Vizual: bijela pozadina, minimalističke ikone u lavandnim tonovima.
+Točke (u 2 stupca):
+✔ Stručan tim s višedesetljetnim iskustvom
+✔ Napredna dijagnostika i laserske metode
+✔ Bez čekanja, s potpunom diskrecijom
+✔ Individualni pristup svakoj pacijentici
+✔ Brza komunikacija i dostupnost
+CTA: 💬 Dogovorite pregled odmah
+
+🔶 5️⃣ Sekcija: “Tim Poliklinike Harni”
+Layout: Fotografije + kratki opisi (hover efekt prikazuje specijalizaciju).
+👩‍⚕️ Dr. Vesna Harni
+👩‍⚕️ Dr. Snješka Vitošević
+👩‍⚕️ Dr. Tatjana Mioč-Pranić
+➡️ Link: “Saznajte više o našem timu →”
+
+🔶 6️⃣ Sekcija: “Novosti i edukacije”
+Layout: Tri najnovija članka u karticama s naslovom, slikom i kratkim opisom (slider za mobitel).
+CTA: “Pročitajte sve novosti →”
+
+🔶 7️⃣ Sekcija: “Brzi kontakt” (footer pre-header)
+Pozadina: blijeda lavanda.
+Elementi:
+📞 Nazovite nas | 💬 WhatsApp | 📧 E-mail | 📍 Lokacija (Google Maps mini-embed)
+
+
+🔶 8️⃣ Footer
+Linkovi: Ginekologija | Neplodnost i hormoni | Trudnoća | Onkologija | Novosti | O nama | Kontakt
+Politika privatnosti | Uvjeti korištenja
+Copyright © Poliklinika Harni 2025
+
+🌸 GINEKOLOGIJA — Landing stranica
+🎯 Cilj: Prikazati opseg dijagnostike i terapije, laserske metode i edukativne teme.
+Layout sekcija:
+1️⃣ Hero sekcija: “Stručnost, sigurnost i povjerenje u svakoj fazi života” + CTA gumbi
+2️⃣ Redoviti ginekološki pregled — temelj zdravlja (tekst + ikone pregleda)
+3️⃣ Specijalizirani tretmani (4 kartice: laser, kolposkopija, LETZ, menopauza)
+4️⃣ Zašto odabrati nas (kratke točke + link na tim)
+5️⃣ Izdvojene teme iz ginekologije (linkovi na podstranice)
+6️⃣ CTA blok: Dogovorite pregled / Pošaljite upit / WhatsApp
+
+🧬 NEPLODNOST I HORMONI
+🎯 Cilj: naglasiti holistički pristup reproduktivnom zdravlju i hormonima.
+Layout:
+1️⃣ Hero: “Hormonska ravnoteža i plodnost počinju razumijevanjem”
+2️⃣ Najčešći razlozi neplodnosti (ikonice: hormoni, PCOS, štitnjača, stres)
+3️⃣ Dijagnostički pristup (grafički timeline: analize – interpretacija – terapija)
+4️⃣ Podstranice: Menstrualni ciklus, Kontracepcija, Menopauza
+5️⃣ Prehrana i lifestyle savjeti
+6️⃣ CTA: Pošaljite upit ili dogovorite pregled
+
+🤰 TRUDNOĆA
+🎯 Cilj: povjerenje, sigurnost i prenatalna skrb.
+Layout:
+1️⃣ Hero: “Sigurna trudnoća, stručna skrb i podrška u svakom koraku”
+2️⃣ Pregledi u trudnoći: timeline po tromjesečjima
+3️⃣ Prenatalna dijagnostika: kartice (NIPT, ultrazvuk, ehokardiografija)
+4️⃣ Rizična trudnoća i individualni pristup
+5️⃣ Savjeti o prehrani i pripremi za porod
+6️⃣ CTA: Zatražite termin za ultrazvuk / prenatalni test
+
+🎗️ GINEKOLOŠKI KARCINOMI
+🎯 Cilj: educirati, smiriti i potaknuti na preventivne preglede.
+Layout:
+1️⃣ Hero: “Rano otkrivanje spašava život” + poziv na pregled
+2️⃣ Rana dijagnostika: kartice (PAPA, HPV, Kolposkopija, LETZ, Colposcan)
+3️⃣ HPV i prevencija raka vrata maternice
+4️⃣ Rak endometrija, jajnika, vulve (u tri stupca)
+5️⃣ Prehrana kod karcinoma i imunološka potpora
+6️⃣ CTA: Dogovorite onkološki pregled
+
+📰 NOVOSTI
+🎯 Cilj: centralni edukacijsko-informativni hub.
+Layout:
+1️⃣ Hero: “Znanje, iskustvo i novosti iz svijeta ginekologije”
+2️⃣ Featured članci (3) – slider s vizualima
+3️⃣ Kategorije: Ginekologija | Hormoni | Onkologija | Lifestyle
+4️⃣ Lista članaka: naslov + opis + slika
+5️⃣ Pretplata na obavijesti (WhatsApp / e-mail)
+6️⃣ CTA: Pošaljite pitanje liječnici / Predložite temu
+
+👩‍⚕️ O NAMA
+Layout:
+1️⃣ Hero: “Naš tim — znanje, iskustvo i briga o zdravlju žene”
+2️⃣ Biografije triju liječnica s portretima i opisom područja rada
+3️⃣ Povijest i misija Poliklinike Harni
+4️⃣ Certifikati, istraživanja i publikacije (DATRIV)
+5️⃣ CTA: Kontaktirajte nas / Dogovorite pregled
+
+📞 KONTAKT
+Layout:
+1️⃣ Hero: “Kontakt i brza komunikacija”
+2️⃣ Kontakt forma: ime, e-mail, poruka + checkbox GDPR privola
+3️⃣ Podaci: adresa, telefon, radno vrijeme, WhatsApp gumb
+4️⃣ Karta (Google Maps)
+5️⃣ CTA (sticky): WhatsApp | Poziv | Termin
+
+
+🎨 DIZAJN STIL I TIPOGRAFIJA
+Element	Preporuka
+Boje	Lavanda (#c9b6d5), zlatno-bijela (#fdfcfb), siva (#646464)
+Tipografija	Naslovi: Playfair Display (elegantni serif); Tekst: Lato (čitljiv sans-serif)
+Fotografije	autentične, svijetle, prirodne, fokusirane na emociju i profesionalnost
+Ikone	minimalističke linijske, pastelno-lavandne
+UX naglasci	sticky CTA bar, jasna hijerarhija, prozračnost, čitljivost na mobitelima
+
+💡 UX dodatak: CTA pozicije po ekranu
+Ekran	CTA položaj	Akcija
+Desktop	u headeru i nakon svake 3. sekcije	“Zatražite termin”
+Tablet	pri dnu ekrana (sticky footer bar)	“Poziv / WhatsApp / E-mail”
+Mobitel	plutajući gumbi (ikone s natpisima)	brza interakcija bez scrollanja
+
+1️⃣ Vizualni mockup (grafički dizajn layouta) u web-ready formatu (desktop + mobile prikaz),
+
+
+import React from "react";
+import { Button } from "@/components/ui/button";
+import { Card, CardContent } from "@/components/ui/card";
+import { Mail, Phone, MessageCircle } from "lucide-react";
+
+export default function PoliklinikaHarniLayout() {
+  return (
+    <div className="flex flex-col min-h-screen bg-white text-gray-700">
+      {/* Hero Section */}
+      <section className="bg-gradient-to-r from-lavender-200 to-lavender-100 py-16 px-6 text-center">
+        <h1 className="text-3xl md:text-5xl font-serif text-lavender-900 mb-4">
+          Stručnost, povjerenje i individualni pristup svakoj ženi
+        </h1>
+        <p className="text-lg md:text-xl mb-8">
+          Više od 25 godina posvećeni zdravlju, ravnoteži i dobrobiti žena.
+        </p>
+        <div className="flex justify-center gap-4 flex-wrap">
+          <Button className="bg-lavender-600 text-white flex items-center gap-2">
+            <Phone className="w-4 h-4" /> Nazovite odmah
+          </Button>
+          <Button className="bg-lavender-500 text-white flex items-center gap-2">
+            <MessageCircle className="w-4 h-4" /> WhatsApp poruka
+          </Button>
+          <Button variant="outline" className="border-lavender-600 text-lavender-700">
+            <Mail className="w-4 h-4" /> Zatražite termin
+          </Button>
+        </div>
+      </section>
+
+      {/* O Poliklinici */}
+      <section className="grid md:grid-cols-2 gap-8 py-16 px-6 max-w-6xl mx-auto items-center">
+        <div>
+          <h2 className="text-2xl font-serif text-lavender-900 mb-4">Tko smo</h2>
+          <p>
+            Poliklinika Harni jedna je od vodećih ginekoloških ustanova u Hrvatskoj, poznata po stručnosti,
+            visokoj dijagnostičkoj preciznosti i individualnom pristupu. Naš tim čine liječnice s dugogodišnjim
+            iskustvom i uskom specijalizacijom iz područja ginekologije, perinatologije, endokrinologije i onkologije.
+          </p>
+          <Button variant="link" className="text-lavender-700 mt-4">Upoznajte naš tim →</Button>
+        </div>
+        <img
+          src="/images/clinic-team.jpg"
+          alt="Tim Poliklinike Harni"
+          className="rounded-2xl shadow-lg object-cover"
+        />
+      </section>
+
+      {/* Područja stručnosti */}
+      <section className="bg-lavender-50 py-16 px-6 text-center">
+        <h2 className="text-2xl font-serif text-lavender-900 mb-8">Naša područja stručnosti</h2>
+        <div className="grid md:grid-cols-5 gap-4 max-w-6xl mx-auto">
+          {['Ginekologija', 'Neplodnost i hormoni', 'Trudnoća', 'Ginekološki karcinomi', 'Novosti'].map((item) => (
+            <Card key={item} className="hover:shadow-lg transition-all">
+              <CardContent className="p-6">
+                <h3 className="font-semibold text-lavender-800 mb-2">{item}</h3>
+                <p className="text-sm mb-4">Saznajte više o našim pristupima i dijagnostici.</p>
+                <Button variant="link" className="text-lavender-600">Saznajte više →</Button>
+              </CardContent>
+            </Card>
+          ))}
+        </div>
+      </section>
+
+      {/* Zašto odabrati */}
+      <section className="py-16 px-6 max-w-6xl mx-auto">
+        <h2 className="text-2xl font-serif text-lavender-900 mb-8 text-center">Zašto odabrati Polikliniku Harni</h2>
+        <div className="grid md:grid-cols-2 gap-6">
+          <ul className="space-y-3 text-left">
+            <li>✔ Stručan tim s višedesetljetnim iskustvom</li>
+            <li>✔ Napredna dijagnostika i laserske metode liječenja</li>
+            <li>✔ Diskrecija i individualni pristup svakoj pacijentici</li>
+          </ul>
+          <ul className="space-y-3 text-left">
+            <li>✔ Bez čekanja i s potpunim povjerenjem</li>
+            <li>✔ Brza komunikacija putem WhatsAppa, e-maila ili telefona</li>
+            <li>✔ Udoban i siguran ambijent</li>
+          </ul>
+        </div>
+      </section>
+
+      {/* Tim */}
+      <section className="bg-lavender-100 py-16 px-6 text-center">
+        <h2 className="text-2xl font-serif text-lavender-900 mb-8">Naš tim</h2>
+        <div className="grid md:grid-cols-3 gap-6 max-w-6xl mx-auto">
+          {[
+            { name: 'Dr. Vesna Harni', role: 'Rekonstruktivna i estetska ginekologija' },
+            { name: 'Dr. Snješka Vitošević', role: 'Trudnoće i prenatalna dijagnostika' },
+            { name: 'Dr. Tatjana Mioč-Pranić', role: 'Kolposkopija, hormoni i menopauza' },
+          ].map((doc) => (
+            <Card key={doc.name} className="hover:shadow-lg">
+              <CardContent className="p-6">
+                <img
+                  src="/images/doctor-placeholder.jpg"
+                  alt={doc.name}
+                  className="rounded-full w-32 h-32 mx-auto mb-4 object-cover"
+                />
+                <h3 className="font-semibold text-lavender-800">{doc.name}</h3>
+                <p className="text-sm text-gray-600">{doc.role}</p>
+              </CardContent>
+            </Card>
+          ))}
+        </div>
+      </section>
+
+      {/* Kontakt CTA */}
+      <section className="bg-lavender-600 py-12 px-6 text-center text-white">
+        <h2 className="text-2xl font-serif mb-4">Zakažite svoj pregled još danas</h2>
+        <p className="mb-6">Brza i diskretna komunikacija putem WhatsAppa, e-maila ili telefona.</p>
+        <div className="flex justify-center gap-4 flex-wrap">
+          <Button variant="secondary" className="text-lavender-800 bg-white flex items-center gap-2">
+            <Phone className="w-4 h-4" /> Nazovite
+          </Button>
+          <Button className="bg-lavender-800 flex items-center gap-2">
+            <MessageCircle className="w-4 h-4" /> WhatsApp
+          </Button>
+          <Button variant="outline" className="border-white text-white flex items-center gap-2">
+            <Mail className="w-4 h-4" /> Pošaljite upit
+          </Button>
+        </div>
+      </section>
+
+      {/* Footer */}
+      <footer className="bg-gray-900 text-gray-200 py-10 px-6 text-center">
+        <p className="text-sm mb-2">© 2025 Poliklinika Harni. Sva prava pridržana.</p>
+        <p className="text-sm">Zdravlje žene s povjerenjem i znanjem.</p>
+      </footer>
+    </div>
+  );
+}
+
+Varijante mockupa za podstranice (npr. Ginekologija, Neplodnost i hormoni, Trudnoća, Onkologija, Novosti) u istom vizualnom stilu
+
+
+import React from "react";
+import { Button } from "@/components/ui/button";
+import { Card, CardContent } from "@/components/ui/card";
+import { Mail, Phone, MessageCircle } from "lucide-react";
+
+export default function PoliklinikaHarniLayout() {
+  return (
+    <div className="flex flex-col min-h-screen bg-white text-gray-700">
+      {/* Hero Section */}
+      <section className="bg-gradient-to-r from-lavender-200 to-lavender-100 py-16 px-6 text-center">
+        <h1 className="text-3xl md:text-5xl font-serif text-lavender-900 mb-4">
+          Stručnost, povjerenje i individualni pristup svakoj ženi
+        </h1>
+        <p className="text-lg md:text-xl mb-8">
+          Više od 25 godina posvećeni zdravlju, ravnoteži i dobrobiti žena.
+        </p>
+        <div className="flex justify-center gap-4 flex-wrap">
+          <Button className="bg-lavender-600 text-white flex items-center gap-2">
+            <Phone className="w-4 h-4" /> Nazovite odmah
+          </Button>
+          <Button className="bg-lavender-500 text-white flex items-center gap-2">
+            <MessageCircle className="w-4 h-4" /> WhatsApp poruka
+          </Button>
+          <Button variant="outline" className="border-lavender-600 text-lavender-700">
+            <Mail className="w-4 h-4" /> Zatražite termin
+          </Button>
+        </div>
+      </section>
+
+      {/* O Poliklinici */}
+      <section className="grid md:grid-cols-2 gap-8 py-16 px-6 max-w-6xl mx-auto items-center">
+        <div>
+          <h2 className="text-2xl font-serif text-lavender-900 mb-4">Tko smo</h2>
+          <p>
+            Poliklinika Harni jedna je od vodećih ginekoloških ustanova u Hrvatskoj, poznata po stručnosti,
+            visokoj dijagnostičkoj preciznosti i individualnom pristupu. Naš tim čine liječnice s dugogodišnjim
+            iskustvom i uskom specijalizacijom iz područja ginekologije, perinatologije, endokrinologije i onkologije.
+          </p>
+          <Button variant="link" className="text-lavender-700 mt-4">Upoznajte naš tim →</Button>
+        </div>
+        <img
+          src="/images/clinic-team.jpg"
+          alt="Tim Poliklinike Harni"
+          className="rounded-2xl shadow-lg object-cover"
+        />
+      </section>
+
+      {/* Područja stručnosti */}
+      <section className="bg-lavender-50 py-16 px-6 text-center">
+        <h2 className="text-2xl font-serif text-lavender-900 mb-8">Naša područja stručnosti</h2>
+        <div className="grid md:grid-cols-5 gap-4 max-w-6xl mx-auto">
+          {['Ginekologija', 'Neplodnost i hormoni', 'Trudnoća', 'Ginekološki karcinomi', 'Novosti'].map((item) => (
+            <Card key={item} className="hover:shadow-lg transition-all">
+              <CardContent className="p-6">
+                <h3 className="font-semibold text-lavender-800 mb-2">{item}</h3>
+                <p className="text-sm mb-4">Saznajte više o našim pristupima i dijagnostici.</p>
+                <Button variant="link" className="text-lavender-600">Saznajte više →</Button>
+              </CardContent>
+            </Card>
+          ))}
+        </div>
+      </section>
+
+      {/* Zašto odabrati */}
+      <section className="py-16 px-6 max-w-6xl mx-auto">
+        <h2 className="text-2xl font-serif text-lavender-900 mb-8 text-center">Zašto odabrati Polikliniku Harni</h2>
+        <div className="grid md:grid-cols-2 gap-6">
+          <ul className="space-y-3 text-left">
+            <li>✔ Stručan tim s višedesetljetnim iskustvom</li>
+            <li>✔ Napredna dijagnostika i laserske metode liječenja</li>
+            <li>✔ Diskrecija i individualni pristup svakoj pacijentici</li>
+          </ul>
+          <ul className="space-y-3 text-left">
+            <li>✔ Bez čekanja i s potpunim povjerenjem</li>
+            <li>✔ Brza komunikacija putem WhatsAppa, e-maila ili telefona</li>
+            <li>✔ Udoban i siguran ambijent</li>
+          </ul>
+        </div>
+      </section>
+
+      {/* Tim */}
+      <section className="bg-lavender-100 py-16 px-6 text-center">
+        <h2 className="text-2xl font-serif text-lavender-900 mb-8">Naš tim</h2>
+        <div className="grid md:grid-cols-3 gap-6 max-w-6xl mx-auto">
+          {[
+            { name: 'Dr. Vesna Harni', role: 'Rekonstruktivna i estetska ginekologija' },
+            { name: 'Dr. Snješka Vitošević', role: 'Trudnoće i prenatalna dijagnostika' },
+            { name: 'Dr. Tatjana Mioč-Pranić', role: 'Kolposkopija, hormoni i menopauza' },
+          ].map((doc) => (
+            <Card key={doc.name} className="hover:shadow-lg">
+              <CardContent className="p-6">
+                <img
+                  src="/images/doctor-placeholder.jpg"
+                  alt={doc.name}
+                  className="rounded-full w-32 h-32 mx-auto mb-4 object-cover"
+                />
+                <h3 className="font-semibold text-lavender-800">{doc.name}</h3>
+                <p className="text-sm text-gray-600">{doc.role}</p>
+              </CardContent>
+            </Card>
+          ))}
+        </div>
+      </section>
+
+      {/* Kontakt CTA */}
+      <section className="bg-lavender-600 py-12 px-6 text-center text-white">
+        <h2 className="text-2xl font-serif mb-4">Zakažite svoj pregled još danas</h2>
+        <p className="mb-6">Brza i diskretna komunikacija putem WhatsAppa, e-maila ili telefona.</p>
+        <div className="flex justify-center gap-4 flex-wrap">
+          <Button variant="secondary" className="text-lavender-800 bg-white flex items-center gap-2">
+            <Phone className="w-4 h-4" /> Nazovite
+          </Button>
+          <Button className="bg-lavender-800 flex items-center gap-2">
+            <MessageCircle className="w-4 h-4" /> WhatsApp
+          </Button>
+          <Button variant="outline" className="border-white text-white flex items-center gap-2">
+            <Mail className="w-4 h-4" /> Pošaljite upit
+          </Button>
+        </div>
+      </section>
+
+      {/* Footer */}
+      <footer className="bg-gray-900 text-gray-200 py-10 px-6 text-center">
+        <p className="text-sm mb-2">© 2025 Poliklinika Harni. Sva prava pridržana.</p>
+        <p className="text-sm">Zdravlje žene s povjerenjem i znanjem.</p>
+      </footer>
+    </div>
+  );
+}
+
+
+2️⃣ 
+naslovna landing page
+Naslovna stranica
+
+Google Ads landing verzija — kraće, konverzijski fokusirane i prilagođene mobilnim uređajima.
+Naglasak je na brzom kontaktu, povjerenju i specifičnim područjima koja žene najčešće traže putem oglasa: ginekološki pregled, neplodnost, trudnoća, hormoni, laserski tretmani, menopauza, karcinomi.
+Tekst je optimiziran za preglede s mobilnih oglasa i društvenih mreža (kratki paragrafi, jasni CTA gumbi i SEO fraze integrirane u prirodnom kontekstu).
+
+Poliklinika Harni
+Vrhunska ginekološka skrb s povjerenjem i iskustvom
+Više od 25 godina brinemo o zdravlju i ravnoteži žena.
+Naše ginekologinje pružaju stručne, diskretne i personalizirane preglede — bez čekanja.
+📞 Nazovite odmah
+💬 Pošaljite WhatsApp poruku
+📧 Zatražite termin e-mailom
+
+Zašto odabrati nas
+✔ Iskustvo i preciznost — 25 godina rada u ginekologiji i perinatologiji
+✔ Bez čekanja — pregled u najkraćem mogućem roku
+✔ Suvremena dijagnostika — ultrazvuk, kolposkopija, laserski tretmani
+✔ Diskrecija i podrška — ugodan ambijent i osobni pristup
+✔ Brza komunikacija — WhatsApp, e-mail ili poziv u jednom dodiru
+📞 Rezervirajte pregled danas
+
+Naš tim
+👩‍⚕️ Dr. Vesna Harni — ekspert za kolposkopiju, vulvoskopiju i laserske tretmane.
+👩‍⚕️ Dr. Snješka Vitošević — specijalist za trudnoću i prenatalnu dijagnostiku.
+👩‍⚕️ Dr. Tatjana Mioč-Pranić — stručnjakinja za hormonsku ravnotežu i reproduktivno zdravlje.
+Tri iskusne ginekologinje. Jedan zajednički cilj — vaše zdravlje i povjerenje.
+💬 Pišite putem WhatsAppa
+
+Što radimo
+🔹 [Ginekologija]
+Redoviti pregledi, PAPA test, ultrazvuk, kolposkopija, liječenje upala i bolnih stanja.
+🔹 [Neplodnost i hormoni]
+Detaljna dijagnostika uzroka neplodnosti i personalizirani plan liječenja.
+🔹 [Trudnoća]
+Praćenje trudnoće, fetalni ultrazvuk, prenatalna dijagnostika, podrška kroz sve faze.
+🔹 [Laserski tretmani]
+Minimalno invazivne metode za vaginalnu suhoću, ožiljke, inkontinenciju i estetske korekcije.
+🔹 [Prevencija i onkologija]
+Rani screening i praćenje liječenja ginekoloških karcinoma.
+📧 Pošaljite upit za termin
+
+Vaše zdravlje, naš prioritet
+Poliklinika Harni pruža sve što vam treba na jednom mjestu — stručnost, sigurnost i razumijevanje.
+💬 Kontaktirajte nas odmah putem WhatsAppa
+📞 Nazovite i dogovorite pregled
+📧 Pošaljite e-mail upit
+Brzi odgovori, diskretna komunikacija, pristup bez čekanja.
+Poliklinika Harni — jer povjerenje počinje znanjem.
+
+🔍 SEO ključne fraze za oglase:
+ginekolog Zagreb
+ginekološki pregled bez čekanja
+liječenje neplodnosti
+vođenje trudnoće
+hormoni i menopauza
+laserski tretmani u ginekologiji
+prenatalna dijagnostika
+ginekološka poliklinika Zagreb
+
+
+
+🟣 GOOGLE ADS — tekstualni oglasi
+🔹 Naslovi (Headlines)
+(rotiraju se, Google prikazuje kombinacije s najvećom učinkovitosti)
+Poliklinika Harni — ginekolog Zagreb
+Stručna ginekološka skrb bez čekanja
+Ginekologinja s iskustvom i povjerenjem
+Trudnoća i prenatalna dijagnostika
+Liječenje neplodnosti i hormonskih smetnji
+Laserski tretmani u ginekologiji
+Diskrecija, stručnost i brzi pregled
+Dogovorite termin već danas
+Žensko zdravlje uz osobni pristup
+Poliklinika Harni — vaš ginekolog u Zagrebu
+
+🔹 Opisi (Descriptions)
+Više od 25 godina iskustva u ginekologiji, trudnoći, neplodnosti i hormonima. Brzi pregled bez čekanja.
+Stručne ginekologinje, suvremena dijagnostika i individualni pristup. Pošaljite upit odmah!
+Poliklinika Harni — kolposkopija, ultrazvuk, laserski tretmani i prenatalna dijagnostika.
+Dogovorite termin putem WhatsAppa ili e-maila. Stručnost, povjerenje i diskrecija.
+Cjelovita skrb za ženu — od puberteta do menopauze. Kontaktirajte nas već danas!
+
+🔹 Call to Action (CTA) varijante za testiranje:
+Rezervirajte pregled
+Pošaljite upit
+Kontaktirajte nas odmah
+Pišite putem WhatsAppa
+Dogovorite termin danas
+
+🟣 META OPISI (za SEO i društvene mreže)
+(Prikazuju se uz link u rezultatima pretraživanja i na Facebook/Instagram oglasima.)
+
+Meta opis (glavni):
+Poliklinika Harni — vodeća ginekološka poliklinika u Zagrebu. Više od 25 godina iskustva u ginekologiji, trudnoći, hormonskim poremećajima i liječenju neplodnosti. Brzi pregled bez čekanja.
+
+Alternativni opis (trudnoća fokus):
+Sigurna i stručna skrb kroz sve faze trudnoće. Praćenje razvoja ploda, ultrazvuk i prenatalna dijagnostika u Poliklinici Harni.
+
+Alternativni opis (neplodnost fokus):
+Rješenja za neplodnost, hormonske poremećaje i reproduktivno zdravlje. Individualni pristup i suvremene metode u Poliklinici Harni.
+
+Alternativni opis (laserska medicina):
+Laserski tretmani u ginekologiji — sigurno, precizno i bezbolno. Suvremena dijagnostika i vrhunski tim Poliklinike Harni.
+
+🟣 Kratke verzije za društvene mreže (Facebook / Instagram oglasi)
+🔹 Varijanta 1 – opća
+Stručna ginekološka skrb bez čekanja.
+Više od 25 godina iskustva i povjerenja.
+💬 Pišite putem WhatsAppa ili 📞 nazovite odmah.
+Poliklinika Harni — vaše zdravlje u sigurnim rukama.
+🔹 Varijanta 2 – trudnoća fokus
+Trudnoća zahtijeva sigurnost i znanje.
+Naše ginekologinje prate vas kroz svaku fazu — uz prenatalnu dijagnostiku i osobni pristup.
+💬 Dogovorite termin danas!
+🔹 Varijanta 3 – neplodnost fokus
+Teže zatrudnjujete?
+U Poliklinici Harni nudimo cjeloviti pristup neplodnosti i hormonalnoj ravnoteži.
+👩‍⚕️ Stručnost, empatija i moderna dijagnostika.
+📞 Kontaktirajte nas.
+🔹 Varijanta 4 – laserski tretmani
+Suhoća, bol ili ožiljci nakon poroda?
+Laserski tretmani vraćaju udobnost i samopouzdanje.
+💬 Pošaljite upit ili nazovite Polikliniku Harni.
+
+🟣 SEO ključne fraze (za metapodatke i oglasne grupe):
+ginekolog Zagreb
+ginekološki pregled bez čekanja
+vođenje trudnoće
+prenatalna dijagnostika
+liječenje neplodnosti
+hormonska terapija
+laserski tretmani u ginekologiji
+menopauza i hormoni
+ginekološka poliklinika Zagreb
